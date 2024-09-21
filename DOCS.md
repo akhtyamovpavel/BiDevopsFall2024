@@ -5,6 +5,13 @@
 ```python
 python3 main.py --cli
 ```
+
+### Примеры запуска тестов
+
+```python
+python3 main.py --tests
+```
+
 ### Документация класса Foo
 
 `Foo` создает новый объект
