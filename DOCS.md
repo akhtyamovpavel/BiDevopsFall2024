@@ -3,7 +3,7 @@
 ### Примеры запуска кода
 
 ```python
-python3 main.py --help
+python3 main.py --cli
 ```
 
 ### Примеры запуска тестов
@@ -11,3 +11,7 @@ python3 main.py --help
 ```python
 python3 main.py --tests
 ```
+
+### Документация класса Foo
+
+`Foo` создает новый объект
