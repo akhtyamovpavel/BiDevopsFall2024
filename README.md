@@ -11,6 +11,5 @@
 ### Инструкция по запуску проекта
 
 ```shell
-cd src
-python3 main.py
+PYTHONPATH=src python3 main.py
 ```
